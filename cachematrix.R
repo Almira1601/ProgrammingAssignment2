@@ -1,6 +1,6 @@
 
 
-## This function creates a matrix
+## This function creates an input matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   
